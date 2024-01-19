@@ -9,8 +9,8 @@ Pagination is applied on server side such that it will show maximum of 10 reposi
 Search Bar functionality is available to filter out the repositories according to the name of repository. 
 
 Technology used:-
-HTML
-CSS
-JAVASCRIPT
+HTML,
+CSS,
+JAVASCRIPT,
 GITHUB REST API
 
